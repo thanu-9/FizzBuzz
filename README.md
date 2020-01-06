@@ -36,7 +36,7 @@ The following code will then give me the first 15 digits only.
 		<pre><code> System.out.println(fizzBuzzGenerator.FizzBuzz(1,15).toString()); </code></pre>
     
  And the result obtained from this is: </br>
- [1, 2, Fizz, 4, Buz, Fizz, 7, 8, Fizz, Buz, 11, Fizz, 13, 14]
+ [1, 2, Fizz, 4, Buz, Fizz, 7, 8, Fizz, Buz, 11, Fizz, 13, 14].
 
  
 
